@@ -1,0 +1,216 @@
+
+/* External CSS */
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700,900);
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
+/* @import url(fontawesome-free-5.15.1-web/css/fontawesome.min.css); */
+
+body, html {
+    font-family: 'Open Sans', sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+.head1 {
+    background: url('https://images.unsplash.com/photo-1600422018268-8c099c8a0a69?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    text-align: center;
+    /* min-height:100%;
+    min-width:100%; */
+    /* min-height: 1080px;
+    min-width: 1920px; */
+}
+
+.font1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.font2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.break1 {
+    width: 80px;
+	height: 5px;
+    background: #17a5e9;
+    margin-left: 46%;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.break2 {
+    width: 80px;
+	height: 5px;
+    background: #17a5e9;
+    margin-left: 46%;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+.font3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.font4 {
+    text-align: center;
+}
+
+
+.font5 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.font6 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.text_align_center1 {
+    text-align: center;
+}
+
+.padding_layout_1 {
+	padding-top: 0px;
+    padding-bottom: 115px;
+    margin-bottom: 100px;
+}
+
+.brand_list li {
+	float: left;
+	width: 19%;
+	text-align: center;
+	background: #f6f6f6;
+	padding: 30px 0;
+	margin: 0 .5%;
+    border: solid #eee 5px;
+    list-style-type: none;
+}
+
+.main-heading {
+    color:white;
+}
+
+.footer_style_2 {
+	padding: 0;
+    background: #111;
+    font-family: 'Raleway', sans-serif;
+}
+
+.footer_blog {
+	float: left;
+	width: 65%;
+	padding: 75px 75px 100px 75px;
+}
+
+.footer_blog .col-md-6 {
+	margin-bottom: 30px;
+}
+
+footer ul.social_icons li {
+	display: inline;
+}
+
+footer ul.social_icons li a {
+	float: left;
+	margin-right: 15px;
+	text-align: center;
+	font-size: 18px;
+	border-radius: 100%;
+	color: #666;
+}
+
+footer ul.social_icons {
+	float: left;
+	margin-top: 10px;
+}
+
+.social-icon {
+	float: right;
+	list-style: none;
+	margin: 0;
+}
+
+.footer_mail-section {
+	margin-top: 10px;
+	float: left;
+}
+
+.footer_mail-section .field input {
+	border: none;
+	padding: 10px 15px 9PX;
+	font-size: 14px;
+	font-weight: 500;
+	max-width: 215px;
+	width: 100%;
+}
+
+.footer_mail-section .field button.button_custom {
+	width: 40px;
+	height: 40px;
+	font-size: 14px;
+	padding: 8px 8px;
+	border: none;
+	float: left;
+	color: #fff;
+}
+
+.footer_mail-section .field {
+	padding: 0;
+}
+
+
+.footer-menu li {
+    margin: 5px 0;
+    list-style-type: none;
+}
+
+.footer-menu li a {
+	color: #666;
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 500;
+}
+
+.footer_mail-section .field button.button_custom {
+	width: 40px;
+	height: 40px;
+	font-size: 14px;
+	padding: 8px 8px;
+	border: none;
+	float: left;
+    color: #fff;
+    background-color:#666;
+}
+
+.cprt {
+	width: 100%;
+	text-align: center;
+	
+	height: auto;
+	padding: 18px 0;
+	
+}
+
+.cprt p {
+	color: #fff;
+	margin: 0;
+	font-size: 14px;
+}
+
+.cprt p {
+	line-height: 18px;
+	padding: 0 15px;
+}
