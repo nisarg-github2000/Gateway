@@ -1,0 +1,5 @@
+/Users/nihu/projects/SourceControlAssignment1/SourceControlAssignment/bin/SourceControlAssignment.dll
+/Users/nihu/projects/SourceControlAssignment1/SourceControlAssignment/bin/SourceControlAssignment.pdb
+/Users/nihu/projects/SourceControlAssignment1/SourceControlAssignment/obj/Debug/SourceControlAssignment.csproj.CoreCompileInputs.cache
+/Users/nihu/projects/SourceControlAssignment1/SourceControlAssignment/obj/Debug/SourceControlAssignment.dll
+/Users/nihu/projects/SourceControlAssignment1/SourceControlAssignment/obj/Debug/SourceControlAssignment.pdb
