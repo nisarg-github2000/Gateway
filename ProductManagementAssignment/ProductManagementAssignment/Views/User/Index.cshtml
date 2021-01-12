@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@Html.Raw(TempData["LoginSuccessMessage"])
+
+<style>
+    .flex-container {
+        display: flex;
+      
+    }
+    .firstSide {
+        margin-top: 10px;
+        border-right: 4px solid green;
+        height: 500px;
+    }
+    .secondSide {
+        margin-left : 40%;
+        margin-top : 20%;
+    }
+
+</style>
+
+<div class="flex-container">
+    <div class="firstSide" style="padding-right : 30px ; padding-top: 20px">
+        <h5>@Html.ActionLink("Product List", "Index", "Product")</h5>
+        <hr />
+        <h5>@Html.ActionLink("Add Product","Create","Product")</h5>
+    </div>
+    <div class="secondSide">
+        <h3>Welcome @Session["FirstName"] @Session["LastName"]</h3>
+        
+    </div>
+
+</div>
+
+
+
